@@ -14,5 +14,5 @@ Trương hợp 3: Cả frontend và backend đều có framework: Framework back
 
 
 
-Thứ 1: Nếu Backend là code thuần, thì nhúng thư mục backend vào thư mục frontend (thuần hoặc đã đóng gói).<br>
-Thứ 2: Nếu Backend là framework, Thư mục frontend sau khi đóng gói được tích hợp vào khung làm việc của backend.<br>
+<b>BACKEND NHÚNG VÀO FRONTEND</b>: Nếu Backend là code thuần, thì nhúng thư mục backend vào thư mục frontend (thuần hoặc đã đóng gói).<br>
+<b>FRONTEND TÍCH HỢP VÀO BACKEND</b>: Nếu Backend là framework, Thư mục frontend sau khi đóng gói được tích hợp vào khung làm việc của backend.<br>
